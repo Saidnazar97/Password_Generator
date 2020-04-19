@@ -24,12 +24,12 @@
         <div class="content">
           <h4>Random Password Generator</h4>
           <br />
-          <input type="text" id="display">
+          <input type="text" placeholder="Your Secure Password" id="display">
           <br />
           <input type="range" min="0" max="50" name="slider" id="slider">
           <br />
-          <button onclick="">Generate</button>
-          <button onclick="">Copt to Clipboard</button>
+          <button onclick="generate()">Generate</button>
+          <button onclick="copyPassword()">Copt to Clipboard</button>
           <div id="length"></div>
         </div>
 
