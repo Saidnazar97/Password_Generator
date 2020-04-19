@@ -7,7 +7,7 @@ Requirements for me to make Random Password Generator conserning with Javascript
 Firstly, I will use the HTML, CSS and mostly focus on JavaScript to establish a random password function.
 Setting up Webpages such as (index.html, style.css, and script.js).
 
-- Using Bootstrap, required following items:
+- Using Bootstrap, established following items:
 
   - A Navbar
 
